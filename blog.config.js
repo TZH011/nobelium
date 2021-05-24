@@ -38,11 +38,11 @@ const BLOG = {
     // support provider: gitalk, utterances, cusdis
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
-      repo: 'Resume', // The repository of store comments
-      owner: 'snowords',
-      admin: ['snowords'],
-      clientID: 'e608fba0dff44a15ed1a',
-      clientSecret: '4a7021f0867c0fef3608463089918387b2001d51',
+      repo: 'blog-comments', // The repository of store comments
+      owner: 'TZH011',
+      admin: ['TZH011'],
+      clientID: 'd76c1be39cb59e7c87df',
+      clientSecret: '5df40289dfa0cf92389512180993262fc87bd55a',
       distractionFreeMode: false
     },
     utterancesConfig: {
