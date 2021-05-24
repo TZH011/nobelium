@@ -39,8 +39,8 @@ const BLOG = {
     provider: 'gitalk', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: 'blog-comments', // The repository of store comments
-      owner: 'TZH011',
-      admin: [TZH011],
+      owner: 'TZH001',
+      admin: ['TZH001'],
       clientID: 'd76c1be39cb59e7c87df',
       clientSecret: '5df40289dfa0cf92389512180993262fc87bd55a',
       distractionFreeMode: false
